@@ -113,7 +113,7 @@ Organização modular de dados
 ![DRE Simplificado](images/dre-simplificado.png)
 
 ### 📊 Dashboard Financeiro
-![Dashboard Financeiro](images/dashboard.png)
+![Dashboard Financeiro](images/Dashboard.png)
 
 
 ## 👨‍💻 Autor
